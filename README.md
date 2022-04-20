@@ -1,5 +1,3 @@
-### Hi there 👋
-
 Principais repositórios:
 - [dailylink](https://github.com/ronaldobgui/dailylink)
 - [memoria](https://github.com/ronaldobgui/memoria)
